@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "imageSrc": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61I2G3yRmVL._AC_SX466_.jpg",
+        "description": "TECURS Wired Gaming Mouse 12000 DPI Programmable Mouse, USB Optical PC Gaming Mice, Ultra-Lightweight RGB Mouse, Honeycomb Shell Design, Computer Game Hardware, Black",
+        "price": 11,
+        "quantity": 100
+    },
+    {
+        "id": 2,
+        "imageSrc": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71tduSp8ooL._AC_SX679_.jpg",
+        "description": "MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Torx Twin Fan Ampere OC Graphics Card (Ventus 2X 12G OC)",
+        "price": 360,
+        "quantity": 20
+    },
+    {
+        "id": 3,
+        "imageSrc": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61Ry9-xUMCL._AC_UY327_FMwebp_QL65_.jpg",
+        "description": "AmazonCommercial Wireless Noise Cancelling Bluetooth Headphones",
+        "price": 50,
+        "quantity": 34
+    },
+    {
+        "id": 4,
+        "imageSrc": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51rmwQzXCJL._AC_UY218_.jpg",
+        "description": "AmazonCommercial Wireless Noise Cancelling Bluetooth Headphones",
+        "price":45,
+        "quantity":13
+    },
+    {
+        "id":5,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51xZdrJfCzL._AC_SY879_.jpg",
+        "description":" Amazon Basics In-Ear Wired Headphones, Earbuds with Microphone, Black",
+        "price":78,
+        "quantity":102
+    },
+    {
+        "id":6,
+        "imageSrc": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61f6S+WtUKL._AC_UY218_.jpg",
+        "description": "JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Blue",
+        "price":34,
+        "quantity":19
+    },
+    {
+        "id":7,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61xgpXecLML._AC_SX466_.jpg",
+        "description": "Logitech M510 Wireless Computer Mouse for PC with USB Unifying Receiver - Graphite",
+        "price":33,
+        "quantity":12
+    },
+    {
+        "id":8,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51jojZahYRL._AC_SX466_.jpg",
+        "description":"Amazon Basics Wireless Computer Mouse with USB Nano Receiver - Black", 
+        "price":74,
+        "quantity":76
+    },
+    {
+        "id":9,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71o2ghrFt3L._AC_SX466_.jpg",
+        "description": "Amazon Basics Gaming Computer Mouse Pad -Cloth with rubberized base, Black",
+        "price":21,
+        "quantity":34
+    },
+    {
+        "id":10,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71y-jMVFfTL._AC_SX466_.jpg",
+        "description":"Amazon Basics USB Wired Computer Keyboard and Wired Mouse Bundle Pack",
+        "price":90,
+        "quantity":66
+    },
+    {
+        "id":11,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71SYhHP5cDL._AC_SX679_.jpg",
+        "description":"KOORUI 24 Inch Computer Monitor, FHD 1920 x 1080p Office PC Monitor IPS Display 75Hz, HDMI, VGA, 75 x 75 mm VESA Mountable, Frameless, Eye Protection and Ergonomic Tilt Adjustmen" ,
+        "price":37,
+        "quantity":76
+    },
+    {
+        "id":12,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81QpkIctqPL._AC_SX466_.jpg",
+        "description":"Acer 21.5 Inch Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Computer Monitor (HDMI & VGA Port), SB220Q bi",
+        "price":11,
+        "quantity":34
+    },
+    {
+        "id":13,
+        "imageSrc":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61pskHRSN2L._AC_SX466_.jpg",
+        "description":"Dell OptiPlex 9020-SFF, Intel Core i5-4570 3.2GHZ, 16GB RAM, 512GB SSD Solid State, DVDRW, Windows 10 Pro 64bit (Renewed)", 
+        "price":74,
+        "quantity":256
+    }
+]
